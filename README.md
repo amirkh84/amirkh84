@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**amirkh84/amirkh84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently learning js
+- 🌱 in the way of front-end
+- 👯 i follow my own rules in coding
+- 💬 star my projects😊
+- 📫 talk with me!
+- 
+## 🔗 Links
+[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/amirkhd.420?utm_medium=copy_link)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Javascript, HTML, CSS . . .
+more will be here
+
+
+- ⚡ Fun fact: 021
